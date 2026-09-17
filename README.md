@@ -20,33 +20,14 @@
 - **Параметры** — рекомендуемые настройки
 - **Пример применения** — как адаптировать под конкретную задачу
 
-## Навыки
-
-| # | Стиль | Фотограф | Жанр |
-|---|-------|----------|------|
-| 1 | Environmental Portraiture | Annie Leibovitz | Кинематографические портреты |
-| 2 | Raw Black & White | Peter Lindbergh | Эмоциональные ч/б портреты |
-| 3 | Vibrant Fashion Editorial | Mario Testino | Яркие fashion-снимки |
-| 4 | Documentary Color | Steve McCurry | Документальные портреты |
-| 5 | Minimalist Studio | Richard Avedon | Лаконичные студийные портреты |
-| 6 | Surreal Fashion Fantasy | Tim Walker | Сюрреалистичные fashion-снимки |
-| 7 | Cinematic Narrative | Gregory Crewdson | Кинематографические постановки |
-| 8 | Elegant Still Life & Portrait | Irving Penn | Изысканные натюрморты и портреты |
-| 9 | Epic Documentary | Sebastião Salgado | Эпические ч/б документальные снимки |
-| 10 | Provocative Fashion | Helmut Newton | Провокационные fashion-снимки |
-
 ## Требования
 
 - Midjourney v6 или выше
 - Подписка для доступа к профессиональным параметрам
 
-## Быстрый старт
+## Автор
 
-1. Откройте `editorial_skills.md`
-2. Выберите нужный стиль
-3. Скопируйте базовый промпт
-4. Замените `[SUBJECT]` на описание вашего объекта
-5. Вставьте в Midjourney и генерируйте!
+Создано для профессионального использования в редакционной и коммерческой фотографии.
 
 ## Лицензия
 
