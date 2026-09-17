@@ -10,141 +10,140 @@
 
 **Базовый промпт:**
 ```
-Street photography in the style of Henri Cartier-Bresson, [SUBJECT], decisive moment, geometric composition, black and white, candid photography, 35mm film aesthetic, natural light, urban environment, spontaneous action, perfect timing, shot on Leica M3, 50mm Summicron lens, f/8, documentary photography, human interest --ar 3:2 --style raw --v 6
+Street photography in the style of Henri Cartier-Bresson, [SUBJECT], decisive moment, geometric composition, black and white, candid capture, urban geometry, perfect timing, shot on Leica M3, 50mm Summicron lens, f/8, available light, spontaneous moment, human condition, classic photojournalism --ar 3:2 --style raw --v 6
 ```
 
 **Параметры:**
 - Aspect Ratio: 3:2
 - Style: raw
-- Акцент на спонтанность
+- Черно-белая палитра
 
 **Пример применения:**
-"children playing in street" или "man jumping over puddle"
+"man jumping over puddle in Paris street" или "children playing in shadow patterns"
 
 ---
 
 ## 12. Dorothea Lange — Social Documentary
 
-**Описание:** Социальная документальная фотография с глубоким человеческим сочувствием и историческим контекстом.
+**Описание:** Глубокие социальные документальные портреты с эмпатией и историческим значением.
 
 **Базовый промпт:**
 ```
-Social documentary photography in the style of Dorothea Lange, [SUBJECT], human dignity, economic hardship, environmental portrait, black and white, empathetic composition, natural light, rural or urban poverty, historical context, shot on 4x5 large format camera, 150mm lens, f/16, available light, storytelling, American documentary tradition --ar 4:5 --style raw --v 6
+Social documentary photography in the style of Dorothea Lange, [SUBJECT], empathetic portraiture, human dignity in hardship, environmental context, black and white, natural light, honest representation, shot on 4x5 Speed Graphic, 135mm lens, f/11, available light, Great Depression era aesthetic, compassionate storytelling --ar 4:5 --style raw --v 6
 ```
 
 **Параметры:**
 - Aspect Ratio: 4:5
 - Style: raw
-- Социальный контекст
+- Документальная честность
 
 **Пример применения:**
-"migrant worker family" или "elderly person in modest home"
+"migrant worker family in rural setting" или "elderly person in modest home interior"
 
 ---
 
 ## 13. David LaChapelle — Hyperreal Pop
 
-**Описание:** Гиперреалистичные насыщенные цвета, сюрреалистичные сцены и поп-культура в стиле David LaChapelle.
+**Описание:** Гиперреалистичные, насыщенные цветами снимки с элементами поп-культуры и сюрреализма.
 
 **Базовый промпт:**
 ```
-Hyperreal pop photography in the style of David LaChapelle, [SUBJECT], saturated neon colors, surreal staging, pop culture references, elaborate sets, dramatic lighting, celebrity culture, consumerism commentary, shot on Phase One XF, 80mm lens, f/8, studio lighting with colored gels, maximalist aesthetic, provocative imagery --ar 3:4 --style raw --v 6
+Hyperreal pop photography in the style of David LaChapelle, [SUBJECT], oversaturated colors, surreal set design, pop culture references, theatrical staging, glossy finish, shot on Phase One IQ4 150MP, 80mm lens, f/8, elaborate studio lighting, maximalist aesthetic, candy-colored palette, provocative beauty --ar 2:3 --style raw --v 6 --q 2
 ```
 
 **Параметры:**
-- Aspect Ratio: 3:4
-- Style: raw
-- Максимальная насыщенность
-
-**Пример применения:**
-"celebrity in futuristic setting" или "model surrounded by consumer products"
-
----
-
-## 14. Diane Arbus — Unconventional Portraits
-
-**Описание:** Прямые портреты маргинальных и необычных персонажей с психологической глубиной.
-
-**Базовый промпт:**
-```
-Portrait photography in the style of Diane Arbus, [SUBJECT], unconventional subject, direct gaze, square format, black and white, psychological intensity, available light, environmental context, outsider perspective, shot on Rolleiflex TLR, 80mm lens, f/11, flash fill, uncomfortable intimacy, documentary authenticity --ar 1:1 --style raw --v 6
-```
-
-**Параметры:**
-- Aspect Ratio: 1:1 (квадратный формат)
-- Style: raw
-- Прямой взгляд
-
-**Пример применения:**
-"twins in matching outfits" или "circus performer backstage"
-
----
-
-## 15. Andreas Gursky — Monumental Landscapes
-
-**Описание:** Монументальные пейзажи и архитектурные снимки с невероятной детализацией и масштабом.
-
-**Базовый промпт:**
-```
-Monumental landscape photography in the style of Andreas Gursky, [SUBJECT], vast scale, extreme detail, high vantage point, digital manipulation, global capitalism themes, architectural precision, shot on large format digital back, 90mm lens, f/22, even lighting, panoramic view, contemporary art photography, museum scale --ar 16:9 --style raw --v 6 --q 2
-```
-
-**Параметры:**
-- Aspect Ratio: 16:9
+- Aspect Ratio: 2:3
 - Style: raw
 - Quality: 2
-- Монументальный масштаб
 
 **Пример применения:**
-"stock exchange trading floor" или "massive retail store interior"
+"celebrity in neon-lit tropical setting" или "figure surrounded by consumer products in pastel room"
 
 ---
 
-## 16. Martin Parr — Satirical Color
+## 14. Diane Arbus — Intimate Portraiture
 
-**Описание:** Сатирические цветные снимки массовой культуры и туризма с яркими цветами.
+**Описание:** Интимные, прямые портреты маргинальных персонажей с психологической глубиной.
 
 **Базовый промпт:**
 ```
-Satirical color photography in the style of Martin Parr, [SUBJECT], vivid saturated colors, tourist culture, mass consumption, ironic observation, ring flash lighting, close-up perspective, everyday life, British humor, shot on Canon EOS R5, 35mm lens, f/8, direct flash, social commentary, documentary photography --ar 3:2 --style raw --v 6
+Intimate portrait photography in the style of Diane Arbus, [SUBJECT], direct gaze, psychological intensity, square format, black and white, frontal composition, unsettling honesty, shot on Rolleiflex 2.8F, 80mm Planar lens, f/5.6, flash fill, suburban or urban setting, human complexity, documentary intimacy --ar 1:1 --style raw --v 6
+```
+
+**Параметры:**
+- Aspect Ratio: 1:1 (квадратный формат Rolleiflex)
+- Style: raw
+- Прямая композиция
+
+**Пример применения:**
+"twins in matching outfits standing symmetrically" или "street performer in costume with direct gaze"
+
+---
+
+## 15. Martin Parr — Saturated Social Commentary
+
+**Описание:** Ярко окрашенные социальные комментарии с иронией и вниманием к массовой культуре.
+
+**Базовый промпт:**
+```
+Social commentary photography in the style of Martin Parr, [SUBJECT], oversaturated colors, ring flash, ironic observation, consumer culture, tourist scenes, vivid details, shot on Canon EOS R5, 24-70mm lens at 35mm, f/8, harsh flash lighting, bold color contrasts, British humor, anthropological gaze --ar 3:2 --style raw --v 6
 ```
 
 **Параметры:**
 - Aspect Ratio: 3:2
 - Style: raw
-- Прямая вспышка
+- Кольцевая вспышка
 
 **Пример применения:**
-"tourists at beach resort" или "people at fast food restaurant"
+"tourists at beach with colorful accessories" или "family at fast food restaurant with vivid colors"
 
 ---
 
-## 17. Cindy Sherman — Conceptual Self-Portraiture
+## 16. Paolo Roversi — Ethereal Romanticism
 
-**Описание:** Концептуальные автопортреты с трансформацией личности и критикой гендерных стереотипов.
+**Описание:** Эфирные, романтические портреты с мягким светом и поляроидной эстетикой.
 
 **Базовый промпт:**
 ```
-Conceptual portrait photography in the style of Cindy Sherman, [SUBJECT], character transformation, cinematic reference, elaborate costume and makeup, theatrical lighting, film still aesthetic, gender performance, identity exploration, shot on medium format digital, 105mm lens, f/5.6, studio lighting, art photography, postmodern commentary --ar 4:5 --style raw --v 6
+Ethereal romantic portrait photography in the style of Paolo Roversi, [SUBJECT], soft diffused light, Polaroid aesthetic, dreamy atmosphere, long exposure blur, muted color palette, intimate mood, shot on Polaroid 20x24, 127mm lens, f/4, continuous tungsten light, painterly quality, timeless beauty, delicate shadows --ar 4:5 --style raw --v 6
 ```
 
 **Параметры:**
 - Aspect Ratio: 4:5
 - Style: raw
-- Театральное освещение
+- Мягкий непрерывный свет
 
 **Пример применения:**
-"film noir femme fatale" или "1950s housewife character"
+"young woman in flowing fabric with soft backlight" или "dancer in motion with ethereal blur"
 
 ---
 
-## 18. Robert Frank — American Road
+## 17. Guy Bourdin — Bold Color Blocking
 
-**Описание:** Сырые, поэтические снимки американской жизни с зернистой пленочной эстетикой.
+**Описание:** Смелые цветовые блоки, провокационные композиции и графическая эстетика.
 
 **Базовый промпт:**
 ```
-Documentary photography in the style of Robert Frank, [SUBJECT], raw aesthetic, American life, poetic observation, black and white, grainy film texture, off-kilter composition, natural light, roadside America, melancholic mood, shot on Leica M4, 35mm lens, f/5.6, available light, countercultural perspective, The Americans series --ar 3:2 --style raw --v 6
+Bold fashion photography in the style of Guy Bourdin, [SUBJECT], vivid color blocking, graphic composition, provocative staging, surrealist influence, sharp contrasts, shot on Hasselblad 500C/M, 80mm lens, f/11, controlled studio flash, pop art colors, fashion as art, visual tension --ar 3:4 --style raw --v 6
+```
+
+**Параметры:**
+- Aspect Ratio: 3:4
+- Style: raw
+- Графическая композиция
+
+**Пример применения:**
+"model in red dress against electric blue wall" или "figure with bold lipstick in geometric setting"
+
+---
+
+## 18. Robert Frank — Raw American Vision
+
+**Описание:** Сырая, поэтическая документальная фотография с личным взглядом на общество.
+
+**Базовый промпт:**
+```
+Documentary photography in the style of Robert Frank, [SUBJECT], raw aesthetic, poetic observation, black and white, grainy texture, unconventional composition, shot on Leica M3, 35mm Summicron lens, f/5.6, available light, American landscape, social observation, personal vision, loose framing --ar 3:2 --style raw --v 6
 ```
 
 **Параметры:**
@@ -153,162 +152,169 @@ Documentary photography in the style of Robert Frank, [SUBJECT], raw aesthetic, 
 - Зернистая текстура
 
 **Пример применения:**
-"lonely diner at night" или "jukebox in empty bar"
+"lonely figure at gas station on empty highway" или "diner interior with solitary patrons"
 
 ---
 
-## 19. Nan Goldin — Intimate Documentary
+## 19. Ellen von Unwerth — Playful Glamour
 
-**Описание:** Интимные документальные снимки личной жизни с сырой эмоциональностью.
-
-**Базовый промпт:**
-```
-Intimate documentary photography in the style of Nan Goldin, [SUBJECT], raw emotion, personal relationships, available light, color film aesthetic, snapshot quality, nightlife scenes, LGBTQ+ community, vulnerability, shot on Contax T2, 38mm lens, f/2.8, flash photography, diary-like documentation, The Ballad of Sexual Dependency --ar 3:2 --style raw --v 6
-```
-
-**Параметры:**
-- Aspect Ratio: 3:2
-- Style: raw
-- Интимная атмосфера
-
-**Пример применения:**
-"couple in bedroom" или "friends at nightclub"
-
----
-
-## 20. Wolfgang Tillmans — Contemporary Art
-
-**Описание:** Современная арт-фотография с разнообразием жанров и экспериментальным подходом.
+**Описание:** Игривые гламурные снимки с энергией, юмором и женской силой.
 
 **Базовый промпт:**
 ```
-Contemporary art photography in the style of Wolfgang Tillmans, [SUBJECT], diverse subject matter, casual composition, natural light, color photography, everyday beauty, abstract elements, installation aesthetic, shot on various cameras, mixed focal lengths, f/4, available light, gallery exhibition quality, Turner Prize winner --ar 4:5 --style raw --v 6
-```
-
-**Параметры:**
-- Aspect Ratio: 4:5
-- Style: raw
-- Экспериментальный подход
-
-**Пример применения:**
-"still life on table" или "abstract light study"
-
----
-
-## 21. Vivian Maier — Street Photography
-
-**Описание:** Классическая уличная фотография с наблюдательностью и человеческим интересом.
-
-**Базовый промпт:**
-```
-Street photography in the style of Vivian Maier, [SUBJECT], candid observation, urban life, black and white, Rolleiflex perspective, waist-level view, geometric composition, human interest, 1950s-60s aesthetic, shot on Rolleiflex 2.8F, 80mm lens, f/11, available light, Chicago streets, discovered masterpiece --ar 1:1 --style raw --v 6
-```
-
-**Параметры:**
-- Aspect Ratio: 1:1
-- Style: raw
-- Классическая уличная фотография
-
-**Пример применения:**
-"children playing in street" или "reflections in shop window"
-
----
-
-## 22. Alec Soth — American Narrative
-
-**Описание:** Американские нарративы с поэтической наблюдательностью и средним форматом.
-
-**Базовый промпт:**
-```
-American narrative photography in the style of Alec Soth, [SUBJECT], environmental portrait, middle America, poetic observation, color photography, large format quality, natural light, roadside landscapes, loneliness, shot on 8x10 camera, 210mm lens, f/22, available light, Sleeping by the Mississippi series, contemporary documentary --ar 4:5 --style raw --v 6
-```
-
-**Параметры:**
-- Aspect Ratio: 4:5
-- Style: raw
-- Большой формат
-
-**Пример применения:**
-"person in motel room" или "landscape along Mississippi River"
-
----
-
-## 23. Rineke Dijkstra — Adolescent Portraits
-
-**Описание:** Портреты подростков на пляже с естественностью и психологической глубиной.
-
-**Базовый промпт:**
-```
-Portrait photography in the style of Rineke Dijkstra, [SUBJECT], adolescent subject, beach setting, full body portrait, natural light, awkward posture, transitional age, large format quality, psychological vulnerability, shot on 4x5 camera, 150mm lens, f/16, overcast daylight, beach portraits series, contemporary art photography --ar 3:4 --style raw --v 6
+Playful glamour photography in the style of Ellen von Unwerth, [SUBJECT], energetic movement, vintage film aesthetic, playful mood, saturated colors, dynamic composition, shot on Contax T2, 38mm Sonnar lens, f/2.8, natural light with flash, 90s fashion editorial, carefree spirit, feminine power --ar 3:4 --style raw --v 6
 ```
 
 **Параметры:**
 - Aspect Ratio: 3:4
 - Style: raw
-- Естественное освещение
+- Пленочная эстетика
 
 **Пример применения:**
-"teenager on beach in swimsuit" или "young soldier in uniform"
+"model laughing while running through garden" или "figure dancing in vintage lingerie with confetti"
 
 ---
 
-## 24. Thomas Struth — Museum Photography
+## 20. Andreas Gursky — Monumental Scale
 
-**Описание:** Фотографии музейных пространств и зрителей с глубоким вниманием к деталям.
+**Описание:** Монументальные пейзажи и архитектурные снимки с невероятной детализацией и масштабом.
 
 **Базовый промпт:**
 ```
-Museum photography in the style of Thomas Struth, [SUBJECT], gallery interior, art viewers, architectural space, even lighting, large format detail, cultural observation, contemplative atmosphere, shot on 8x10 camera, 150mm lens, f/32, museum lighting, Museum Photographs series, contemporary art documentation --ar 3:2 --style raw --v 6 --q 2
+Monumental landscape photography in the style of Andreas Gursky, [SUBJECT], extreme detail, vast scale, digital precision, elevated perspective, pattern recognition, shot on Hasselblad H6D-400c MS, multi-shot composite, f/11, even lighting, global capitalism aesthetic, sublime geometry, contemporary sublime --ar 16:9 --style raw --v 6 --q 2
 ```
 
 **Параметры:**
-- Aspect Ratio: 3:2
+- Aspect Ratio: 16:9
 - Style: raw
 - Quality: 2
-- Музейное освещение
 
 **Пример применения:**
-"visitors viewing classical painting" или "empty museum gallery"
+"aerial view of massive shipping port" или "interior of enormous stock exchange floor"
 
 ---
 
-## 25. Juergen Teller — Raw Fashion
+## 21. Vivian Maier — Hidden Street Poetry
 
-**Описание:** Сырая fashion-фотография с прямым светом и минимальной постобработкой.
+**Описание:** Скрытая уличная поэзия с уникальным взглядом на повседневную жизнь города.
 
 **Базовый промпт:**
 ```
-Raw fashion photography in the style of Juergen Teller, [SUBJECT], direct flash, minimal retouching, snapshot aesthetic, fashion editorial, provocative styling, harsh lighting, color photography, anti-glamour, shot on Contax 645, 80mm lens, f/8, on-camera flash, Marc Jacobs campaigns, contemporary fashion --ar 4:5 --style raw --v 6
+Street photography in the style of Vivian Maier, [SUBJECT], candid observation, black and white, urban poetry, self-portrait reflection, Rolleiflex perspective, shot on Rolleiflex 2.8F, 80mm Planar lens, f/8, available light, Chicago or New York streets, everyday beauty, hidden moments, waist-level perspective --ar 1:1 --style raw --v 6
+```
+
+**Параметры:**
+- Aspect Ratio: 1:1
+- Style: raw
+- Перспектива от пояса
+
+**Пример применения:**
+"reflection in shop window with passing pedestrians" или "children playing on urban stoop"
+
+---
+
+## 22. Nick Knight — Avant-Garde Fashion
+
+**Описание:** Авангардная fashion-фотография с экспериментальным освещением и цифровой эстетикой.
+
+**Базовый промпт:**
+```
+Avant-garde fashion photography in the style of Nick Knight, [SUBJECT], experimental lighting, digital manipulation, sculptural forms, high contrast, innovative technique, shot on Phase One XF IQ4, 150mm lens, f/8, multi-light setup with colored gels, fashion as sculpture, boundary-pushing, SHOWstudio aesthetic --ar 2:3 --style raw --v 6 --q 2
+```
+
+**Параметры:**
+- Aspect Ratio: 2:3
+- Style: raw
+- Quality: 2
+
+**Пример применения:**
+"model in architectural garment with dramatic side lighting" или "figure in liquid fabric with experimental color"
+
+---
+
+## 23. Fan Ho — Poetic Light & Shadow
+
+**Описание:** Поэтические уличные сцены с мастерским использованием света и тени.
+
+**Базовый промпт:**
+```
+Poetic street photography in the style of Fan Ho, [SUBJECT], dramatic light and shadow, geometric patterns, human silhouette, Hong Kong streets, black and white, cinematic composition, shot on Rolleiflex Automat, 80mm lens, f/11, harsh sunlight, abstract urban geometry, Eastern philosophy, contemplative mood --ar 4:5 --style raw --v 6
 ```
 
 **Параметры:**
 - Aspect Ratio: 4:5
 - Style: raw
-- Прямая вспышка
+- Драматические тени
 
 **Пример применения:**
-"model in designer clothing against white wall" или "celebrity portrait with minimal styling"
+"solitary figure in beam of light between buildings" или "shadow patterns on wall with passing figure"
 
 ---
 
-## Общие Рекомендации для Расширенной Коллекции
+## 24. Juergen Teller — Raw Fashion Anti-Glamour
 
-### Комбинирование Стилей:
-- **Документальная классика**: Cartier-Bresson + Frank + Maier
-- **Социальный комментарий**: Lange + Parr + Goldin
-- **Современное искусство**: Gursky + Tillmans + Struth
-- **Fashion авангард**: LaChapelle + Sherman + Teller
-- **Портретная традиция**: Arbus + Dijkstra + Soth
+**Описание:** Сырая, анти-гламурная fashion-фотография с прямым светом и честной эстетикой.
 
-### Технические Параметры:
-- Используйте `--q 2` для максимальной детализации
-- Применяйте `--style raw` для минимальной стилизации
-- Экспериментируйте с aspect ratio для разных форматов
-- Добавляйте конкретные камеры и объективы для аутентичности
+**Базовый промпт:**
+```
+Raw fashion photography in the style of Juergen Teller, [SUBJECT], harsh direct flash, anti-glamour aesthetic, snapshot quality, oversaturated colors, candid energy, shot on Contax G2, 45mm lens, f/4, on-camera flash, unpolished beauty, punk attitude, fashion documentary, spontaneous feel --ar 3:2 --style raw --v 6
+```
 
-### Творческие Подходы:
-1. **Серии** — создавайте серии из 3-5 изображений в одном стиле
-2. **Контрасты** — комбинируйте противоположные стили
-3. **Эволюция** — показывайте развитие стиля через время
-4. **Контекст** — добавляйте исторический и культурный контекст
-5. **Личная интерпретация** — адаптируйте стили под свое видение
+**Параметры:**
+- Aspect Ratio: 3:2
+- Style: raw
+- Прямая вспышка
+
+**Пример применения:**
+"model eating ice cream in casual pose with flash" или "celebrity in designer clothes at mundane location"
+
+---
+
+## 25. Nadav Kander — Atmospheric Landscape Portraits
+
+**Описание:** Атмосферные пейзажи и портреты с туманной, меланхоличной палитрой.
+
+**Базовый промпт:**
+```
+Atmospheric photography in the style of Nadav Kander, [SUBJECT], muted color palette, fog and mist, melancholic atmosphere, large scale landscape, environmental portraiture, shot on Hasselblad H5D-50c, 100mm lens, f/5.6, overcast natural light, desaturated tones, Yangtze river aesthetic, quiet contemplation, sublime nature --ar 4:5 --style raw --v 6
+```
+
+**Параметры:**
+- Aspect Ratio: 4:5
+- Style: raw
+- Приглушенные тона
+
+**Пример применения:**
+"solitary figure in misty river landscape" или "industrial structure emerging from fog"
+
+---
+
+## Таблица Всех 25 Стилей
+
+| # | Стиль | Фотограф | Формат | Ключевая особенность |
+|---|-------|----------|--------|---------------------|
+| 1 | Environmental Portraiture | Annie Leibovitz | 3:2 | Театральная композиция |
+| 2 | Raw Black & White | Peter Lindbergh | 4:5 | Естественная красота |
+| 3 | Vibrant Fashion | Mario Testino | 2:3 | Насыщенные цвета |
+| 4 | Documentary Color | Steve McCurry | 3:2 | Культурный контекст |
+| 5 | Minimalist Studio | Richard Avedon | 4:5 | Белый фон, психология |
+| 6 | Surreal Fantasy | Tim Walker | 2:3 | Сказочная атмосфера |
+| 7 | Cinematic Narrative | Gregory Crewdson | 16:9 | Кино-освещение |
+| 8 | Elegant Still Life | Irving Penn | 4:5 | Платиновая эстетика |
+| 9 | Epic Documentary | Sebastião Salgado | 3:2 | Монументальный масштаб |
+| 10 | Provocative Fashion | Helmut Newton | 3:4 | Высокий контраст |
+| 11 | Decisive Moment | Henri Cartier-Bresson | 3:2 | Геометрия момента |
+| 12 | Social Documentary | Dorothea Lange | 4:5 | Эмпатия и достоинство |
+| 13 | Hyperreal Pop | David LaChapelle | 2:3 | Гипернасыщенность |
+| 14 | Intimate Portraiture | Diane Arbus | 1:1 | Психологическая глубина |
+| 15 | Social Commentary | Martin Parr | 3:2 | Ирония и цвет |
+| 16 | Ethereal Romanticism | Paolo Roversi | 4:5 | Эфирный свет |
+| 17 | Bold Color Blocking | Guy Bourdin | 3:4 | Графические цвета |
+| 18 | Raw American Vision | Robert Frank | 3:2 | Поэтическая документалистика |
+| 19 | Playful Glamour | Ellen von Unwerth | 3:4 | Игривая энергия |
+| 20 | Monumental Scale | Andreas Gursky | 16:9 | Экстремальная детализация |
+| 21 | Hidden Street Poetry | Vivian Maier | 1:1 | Уличная поэзия |
+| 22 | Avant-Garde Fashion | Nick Knight | 2:3 | Экспериментальный свет |
+| 23 | Poetic Light & Shadow | Fan Ho | 4:5 | Свет и тень |
+| 24 | Anti-Glamour | Juergen Teller | 3:2 | Сырая честность |
+| 25 | Atmospheric Landscapes | Nadav Kander | 4:5 | Туманная меланхолия |
